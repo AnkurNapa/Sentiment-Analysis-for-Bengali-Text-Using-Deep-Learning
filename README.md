@@ -36,16 +36,6 @@ Jupyter Notebook
 Installation
 Instructions for setting up the local environment to run the notebooks, including installing necessary libraries and dependencies.
 
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-After setting up the environment, you can run the notebook via Jupyter:
-
-bash
-Copy code
-jupyter notebook <notebook_name>.ipynb
-Replace <notebook_name> with the notebook you intend to open.
 
 Contribution
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
